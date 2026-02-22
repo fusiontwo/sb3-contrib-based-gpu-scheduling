@@ -1,3 +1,5 @@
+# GPU Scheduling based on sb3-contrib
+
 <img src="docs/\_static/img/logo.png" align="right" width="40%"/>
 
 [![CI](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib/actions/workflows/ci.yml/badge.svg)](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib/actions/workflows/ci.yml) [![codestyle](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
