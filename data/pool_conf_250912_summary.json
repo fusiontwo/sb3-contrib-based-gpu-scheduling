@@ -1,0 +1,252 @@
+{
+    "anon1_gpu_pool": {
+        "total_active_nodes": 1125,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 562,
+                "included": 628,
+                "excluded": 66
+            },
+            "A100": {
+                "active": 430,
+                "included": 470,
+                "excluded": 40
+            },
+            "V100": {
+                "active": 133,
+                "included": 140,
+                "excluded": 7
+            }
+        }
+    },
+    "anon2_gpu_pool": {
+        "total_active_nodes": 75,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 38,
+                "included": 40,
+                "excluded": 2
+            },
+            "A100": {
+                "active": 29,
+                "included": 29,
+                "excluded": 0
+            },
+            "V100": {
+                "active": 8,
+                "included": 10,
+                "excluded": 2
+            }
+        }
+    },
+    "anon3_gpu_pool": {
+        "total_active_nodes": 19,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 10,
+                "included": 10,
+                "excluded": 0
+            },
+            "A100": {
+                "active": 9,
+                "included": 9,
+                "excluded": 0
+            }
+        }
+    },
+    "anon4_gpu_pool": {
+        "total_active_nodes": 318,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 185,
+                "included": 185,
+                "excluded": 0
+            },
+            "A100": {
+                "active": 99,
+                "included": 99,
+                "excluded": 0
+            },
+            "V100": {
+                "active": 34,
+                "included": 35,
+                "excluded": 1
+            }
+        }
+    },
+    "anon5_gpu_pool": {
+        "total_active_nodes": 147,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 70,
+                "included": 111,
+                "excluded": 41
+            },
+            "A100": {
+                "active": 30,
+                "included": 30,
+                "excluded": 0
+            },
+            "V100": {
+                "active": 47,
+                "included": 47,
+                "excluded": 0
+            }
+        }
+    },
+    "anon6_gpu_pool": {
+        "total_active_nodes": 168,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 91,
+                "included": 131,
+                "excluded": 40
+            },
+            "A100": {
+                "active": 77,
+                "included": 77,
+                "excluded": 0
+            }
+        }
+    },
+    "anon7_gpu_pool": {
+        "total_active_nodes": 171,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 70,
+                "included": 73,
+                "excluded": 3
+            },
+            "A100": {
+                "active": 91,
+                "included": 92,
+                "excluded": 1
+            },
+            "V100": {
+                "active": 10,
+                "included": 10,
+                "excluded": 0
+            }
+        }
+    },
+    "anon8_gpu_pool": {
+        "total_active_nodes": 34,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 11,
+                "included": 21,
+                "excluded": 10
+            },
+            "A100": {
+                "active": 2,
+                "included": 22,
+                "excluded": 20
+            },
+            "V100": {
+                "active": 21,
+                "included": 21,
+                "excluded": 0
+            }
+        }
+    },
+    "anon9_gpu_pool": {
+        "total_active_nodes": 64,
+        "gpu_type_breakdown": {
+            "A100": {
+                "active": 64,
+                "included": 65,
+                "excluded": 1
+            }
+        }
+    },
+    "anon10_gpu_pool": {
+        "total_active_nodes": 220,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 82,
+                "included": 82,
+                "excluded": 0
+            },
+            "A100": {
+                "active": 120,
+                "included": 146,
+                "excluded": 26
+            },
+            "V100": {
+                "active": 18,
+                "included": 19,
+                "excluded": 1
+            }
+        }
+    },
+    "anon11_gpu_pool": {
+        "total_active_nodes": 7,
+        "gpu_type_breakdown": {
+            "H100": {
+                "active": 12,
+                "included": 12,
+                "excluded": 0
+            },
+            "A100": {
+                "active": -5,
+                "included": 5,
+                "excluded": 10
+            }
+        }
+    },
+    "anon12_gpu_pool": {
+        "total_active_nodes": 16,
+        "gpu_type_breakdown": {
+            "A100": {
+                "active": 16,
+                "included": 17,
+                "excluded": 1
+            }
+        }
+    },
+    "anon13_gpu_pool": {
+        "total_active_nodes": 14,
+        "gpu_type_breakdown": {
+            "A100": {
+                "active": 5,
+                "included": 5,
+                "excluded": 0
+            },
+            "V100": {
+                "active": 9,
+                "included": 9,
+                "excluded": 0
+            }
+        }
+    },
+    "anon18_gpu_pool": {
+        "total_active_nodes": 28,
+        "gpu_type_breakdown": {
+            "V100": {
+                "active": 8,
+                "included": 8,
+                "excluded": 0
+            },
+            "A100": {
+                "active": 20,
+                "included": 20,
+                "excluded": 0
+            }
+        }
+    },
+    "anon19_gpu_pool": {
+        "total_active_nodes": 19,
+        "gpu_type_breakdown": {
+            "V100": {
+                "active": 6,
+                "included": 6,
+                "excluded": 0
+            },
+            "A100": {
+                "active": 13,
+                "included": 14,
+                "excluded": 1
+            }
+        }
+    }
+}

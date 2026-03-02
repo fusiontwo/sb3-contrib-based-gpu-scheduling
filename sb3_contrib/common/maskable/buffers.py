@@ -8,7 +8,6 @@ from stable_baselines3.common.buffers import DictRolloutBuffer, RolloutBuffer
 from stable_baselines3.common.type_aliases import TensorDict
 from stable_baselines3.common.vec_env import VecNormalize
 
-
 class MaskableRolloutBufferSamples(NamedTuple):
     observations: th.Tensor
     actions: th.Tensor

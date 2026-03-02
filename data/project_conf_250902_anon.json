@@ -1,0 +1,1079 @@
+{
+    "proj1": {
+        "fs_node": "/gpu/int",
+        "weight": 1644,
+        "execute": true,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj1_lim",
+            "value": 1644
+        },
+        "sub_project": {
+            "subproj1": {
+                "limit": {
+                    "tag": "subproj1_lim",
+                    "value": 1644
+                }
+            }
+        }
+    },
+    "proj6": {
+        "fs_node": "/gpu/batch/fs66",
+        "weight": 150,
+        "execute": true,
+        "affil": "affil_4",
+        "limit": {
+            "tag": "proj6_lim",
+            "value": 150
+        },
+        "sub_project": {
+            "subproj7": {
+                "limit": {
+                    "tag": "subproj7_lim",
+                    "value": 150
+                }
+            }
+        }
+    },
+    "proj7": {
+        "fs_node": "/gpu/batch/fs51",
+        "weight": 92,
+        "execute": true,
+        "affil": "affil_5",
+        "limit": {
+            "tag": "proj7_lim",
+            "value": 92
+        },
+        "sub_project": {
+            "subproj8": {
+                "limit": {
+                    "tag": "subproj8_lim",
+                    "value": 92
+                }
+            }
+        }
+    },
+    "proj8": {
+        "fs_node": "/gpu/batch/fs1",
+        "weight": 3618,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj8_lim",
+            "value": 3618
+        },
+        "sub_project": {
+            "subproj9": {
+                "limit": {
+                    "tag": "subproj9_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj9_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj10": {
+                "limit": {
+                    "tag": "subproj10_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj10_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj11": {
+                "limit": {
+                    "tag": "subproj11_lim",
+                    "value": 2620
+                },
+                "relaxed_limit": {
+                    "tag": "subproj11_lim",
+                    "value": 524,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj12": {
+                "limit": {
+                    "tag": "subproj12_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj12_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj13": {
+                "limit": {
+                    "tag": "subproj13_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj13_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj14": {
+                "limit": {
+                    "tag": "subproj14_lim",
+                    "value": 448
+                },
+                "relaxed_limit": {
+                    "tag": "subproj14_lim",
+                    "value": 104,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj15": {
+                "limit": {
+                    "tag": "subproj15_lim",
+                    "value": 550
+                },
+                "relaxed_limit": {
+                    "tag": "subproj15_lim",
+                    "value": 112,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj9": {
+        "fs_node": "/gpu/batch/fs63",
+        "weight": 92,
+        "execute": true,
+        "affil": "affil_6",
+        "limit": {
+            "tag": "proj9_lim",
+            "value": 92
+        },
+        "sub_project": {
+            "subproj16": {
+                "limit": {
+                    "tag": "subproj16_lim",
+                    "value": 92
+                }
+            }
+        }
+    },
+    "proj10": {
+        "fs_node": "/gpu/batch/fs68",
+        "weight": 96,
+        "execute": true,
+        "affil": "affil_7",
+        "limit": {
+            "tag": "proj10_lim",
+            "value": 96
+        },
+        "sub_project": {
+            "subproj17": {
+                "limit": {
+                    "tag": "subproj17_lim",
+                    "value": 96
+                }
+            }
+        }
+    },
+    "proj12": {
+        "fs_node": "/gpu/batch/fs80",
+        "weight": 150,
+        "execute": true,
+        "affil": "affil_4",
+        "limit": {
+            "tag": "proj12_lim",
+            "value": 150
+        },
+        "sub_project": {
+            "subproj19": {
+                "limit": {
+                    "tag": "subproj19_lim",
+                    "value": 150
+                }
+            }
+        }
+    },
+    "proj13": {
+        "fs_node": "/gpu/batch/fs8",
+        "weight": 5330,
+        "execute": true,
+        "affil": "affil_8",
+        "limit": {
+            "tag": "proj13_lim",
+            "value": 5330
+        },
+        "sub_project": {
+            "subproj20": {
+                "limit": {
+                    "tag": "subproj20_lim",
+                    "value": 1536
+                }
+            },
+            "subproj108": {
+                "limit": {
+                    "tag": "subproj108_lim",
+                    "value": 318
+                }
+            },
+            "subproj32": {
+                "limit": {
+                    "tag": "subproj32_lim",
+                    "value": 440
+                }
+            },
+            "subproj23": {
+                "limit": {
+                    "tag": "subproj23_lim",
+                    "value": 762
+                }
+            },
+            "subproj24": {
+                "limit": {
+                    "tag": "subproj24_lim",
+                    "value": 464
+                }
+            },
+            "subproj30": {
+                "limit": {
+                    "tag": "subproj30_lim",
+                    "value": 96
+                }
+            },
+            "subproj25": {
+                "limit": {
+                    "tag": "subproj25_lim",
+                    "value": 80
+                }
+            },
+            "subproj29": {
+                "limit": {
+                    "tag": "subproj29_lim",
+                    "value": 808
+                }
+            },
+            "subproj109": {
+                "limit": {
+                    "tag": "subproj109_lim",
+                    "value": 320
+                }
+            },
+            "subproj33": {
+                "limit": {
+                    "tag": "subproj33_lim",
+                    "value": 240
+                }
+            },
+            "subproj22": {
+                "limit": {
+                    "tag": "subproj22_lim",
+                    "value": 100
+                }
+            },
+            "subproj31": {
+                "limit": {
+                    "tag": "subproj31_lim",
+                    "value": 150
+                }
+            },
+            "subproj21": {
+                "limit": {
+                    "tag": "subproj21_lim",
+                    "value": 16
+                }
+            },
+            "subproj27": {
+                "limit": {
+                    "tag": "subproj27_lim",
+                    "value": 0
+                }
+            },
+            "subproj28": {
+                "limit": {
+                    "tag": "subproj28_lim",
+                    "value": 0
+                }
+            },
+            "subproj26": {
+                "limit": {
+                    "tag": "subproj26_lim",
+                    "value": 0
+                }
+            }
+        }
+    },
+    "proj14": {
+        "fs_node": "/gpu/batch/fs84",
+        "weight": 242,
+        "execute": true,
+        "affil": "affil_5",
+        "limit": {
+            "tag": "proj14_lim",
+            "value": 242
+        },
+        "sub_project": {
+            "subproj34": {
+                "limit": {
+                    "tag": "subproj34_lim",
+                    "value": 45
+                }
+            },
+            "subproj35": {
+                "limit": {
+                    "tag": "subproj35_lim",
+                    "value": 67
+                }
+            },
+            "subproj36": {
+                "limit": {
+                    "tag": "subproj36_lim",
+                    "value": 22
+                }
+            },
+            "subproj37": {
+                "limit": {
+                    "tag": "subproj37_lim",
+                    "value": 67
+                }
+            },
+            "subproj38": {
+                "limit": {
+                    "tag": "subproj38_lim",
+                    "value": 42
+                }
+            }
+        }
+    },
+    "proj15": {
+        "fs_node": "/gpu/batch/fs32",
+        "weight": 1320,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj15_lim",
+            "value": 1320
+        },
+        "sub_project": {
+            "subproj39": {
+                "limit": {
+                    "tag": "subproj39_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj39_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj40": {
+                "limit": {
+                    "tag": "subproj40_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj40_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj41": {
+                "limit": {
+                    "tag": "subproj41_lim",
+                    "value": 128
+                },
+                "relaxed_limit": {
+                    "tag": "subproj41_lim",
+                    "value": 108,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj42": {
+                "limit": {
+                    "tag": "subproj42_lim",
+                    "value": 264
+                },
+                "relaxed_limit": {
+                    "tag": "subproj42_lim",
+                    "value": 68,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj43": {
+                "limit": {
+                    "tag": "subproj43_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj43_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj44": {
+                "limit": {
+                    "tag": "subproj44_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj44_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj45": {
+                "limit": {
+                    "tag": "subproj45_lim",
+                    "value": 160
+                },
+                "relaxed_limit": {
+                    "tag": "subproj45_lim",
+                    "value": 48,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj46": {
+                "limit": {
+                    "tag": "subproj46_lim",
+                    "value": 64
+                },
+                "relaxed_limit": {
+                    "tag": "subproj46_lim",
+                    "value": 20,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj47": {
+                "limit": {
+                    "tag": "subproj47_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj47_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj48": {
+                "limit": {
+                    "tag": "subproj48_lim",
+                    "value": 704
+                },
+                "relaxed_limit": {
+                    "tag": "subproj48_lim",
+                    "value": 160,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj49": {
+                "limit": {
+                    "tag": "subproj49_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj49_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj50": {
+                "limit": {
+                    "tag": "subproj50_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj50_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj16": {
+        "fs_node": "/gpu/batch/fs12",
+        "weight": 848,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj16_lim",
+            "value": 848
+        },
+        "sub_project": {
+            "subproj51": {
+                "limit": {
+                    "tag": "subproj51_lim",
+                    "value": 848
+                },
+                "relaxed_limit": {
+                    "tag": "subproj51_lim",
+                    "value": 180,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj36": {
+        "fs_node": "/gpu/batch/fs74",
+        "weight": 160,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj36_lim",
+            "value": 160
+        },
+        "sub_project": {
+            "subproj95": {
+                "limit": {
+                    "tag": "subproj95_lim",
+                    "value": 160
+                },
+                "relaxed_limit": {
+                    "tag": "subproj95_lim",
+                    "value": 68,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj18": {
+        "fs_node": "/gpu/batch/fs14",
+        "weight": 4356,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj18_lim",
+            "value": 4356
+        },
+        "sub_project": {
+            "subproj96": {
+                "limit": {
+                    "tag": "subproj96_lim",
+                    "value": 652
+                },
+                "relaxed_limit": {
+                    "tag": "subproj96_lim",
+                    "value": 156,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj97": {
+                "limit": {
+                    "tag": "subproj97_lim",
+                    "value": 1520
+                },
+                "relaxed_limit": {
+                    "tag": "subproj97_lim",
+                    "value": 368,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj98": {
+                "limit": {
+                    "tag": "subproj98_lim",
+                    "value": 1800
+                },
+                "relaxed_limit": {
+                    "tag": "subproj98_lim",
+                    "value": 416,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj99": {
+                "limit": {
+                    "tag": "subproj99_lim",
+                    "value": 384
+                },
+                "relaxed_limit": {
+                    "tag": "subproj99_lim",
+                    "value": 80,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj40": {
+        "fs_node": "/gpu/batch/fs28",
+        "weight": 32,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj40_lim",
+            "value": 32
+        },
+        "sub_project": {
+            "subproj100": {
+                "limit": {
+                    "tag": "subproj100_lim",
+                    "value": 32
+                },
+                "relaxed_limit": {
+                    "tag": "subproj100_lim",
+                    "value": 8,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj20": {
+        "fs_node": "/gpu/batch/fs16",
+        "weight": 7672,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj20_lim",
+            "value": 7672
+        },
+        "sub_project": {
+            "subproj62": {
+                "limit": {
+                    "tag": "subproj62_lim",
+                    "value": 3416
+                }
+            },
+            "subproj63": {
+                "limit": {
+                    "tag": "subproj63_lim",
+                    "value": 2336
+                }
+            },
+            "subproj64": {
+                "limit": {
+                    "tag": "subproj64_lim",
+                    "value": 0
+                }
+            },
+            "subproj65": {
+                "limit": {
+                    "tag": "subproj65_lim",
+                    "value": 120
+                }
+            },
+            "subproj66": {
+                "limit": {
+                    "tag": "subproj66_lim",
+                    "value": 312
+                }
+            },
+            "subproj67": {
+                "limit": {
+                    "tag": "subproj67_lim",
+                    "value": 504
+                }
+            },
+            "subproj68": {
+                "limit": {
+                    "tag": "subproj68_lim",
+                    "value": 72
+                }
+            },
+            "subproj101": {
+                "limit": {
+                    "tag": "subproj101_lim",
+                    "value": 288
+                }
+            },
+            "subproj102": {
+                "limit": {
+                    "tag": "subproj102_lim",
+                    "value": 144
+                }
+            },
+            "subproj61": {
+                "limit": {
+                    "tag": "subproj61_lim",
+                    "value": 0
+                }
+            },
+            "subproj60": {
+                "limit": {
+                    "tag": "subproj60_lim",
+                    "value": 0
+                }
+            },
+            "subproj110": {
+                "limit": {
+                    "tag": "subproj110_lim",
+                    "value": 480
+                }
+            }
+        }
+    },
+    "proj21": {
+        "fs_node": "/gpu/batch/fs57",
+        "weight": 192,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj21_lim",
+            "value": 192
+        },
+        "sub_project": {
+            "subproj69": {
+                "limit": {
+                    "tag": "subproj69_lim",
+                    "value": 192
+                },
+                "relaxed_limit": {
+                    "tag": "subproj69_lim",
+                    "value": 32,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj23": {
+        "fs_node": "/gpu/batch/fs108",
+        "weight": 1477,
+        "execute": true,
+        "affil": "affil_9",
+        "limit": {
+            "tag": "proj23_lim",
+            "value": 1477
+        },
+        "sub_project": {
+            "subproj71": {
+                "limit": {
+                    "tag": "subproj71_lim",
+                    "value": 1477
+                }
+            }
+        }
+    },
+    "proj24": {
+        "fs_node": "/gpu/batch/fs30",
+        "weight": 2746,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj24_lim",
+            "value": 2746
+        },
+        "sub_project": {
+            "subproj72": {
+                "limit": {
+                    "tag": "subproj72_lim",
+                    "value": 2362
+                },
+                "relaxed_limit": {
+                    "tag": "subproj72_lim",
+                    "value": 520,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj73": {
+                "limit": {
+                    "tag": "subproj73_lim",
+                    "value": 320
+                },
+                "relaxed_limit": {
+                    "tag": "subproj73_lim",
+                    "value": 68,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj103": {
+                "limit": {
+                    "tag": "subproj103_lim",
+                    "value": 64
+                },
+                "relaxed_limit": {
+                    "tag": "subproj103_lim",
+                    "value": 16,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj26": {
+        "fs_node": "/gpu/batch/fs25",
+        "weight": 620,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj26_lim",
+            "value": 620
+        },
+        "sub_project": {
+            "subproj75": {
+                "limit": {
+                    "tag": "subproj75_lim",
+                    "value": 524
+                },
+                "relaxed_limit": {
+                    "tag": "subproj75_lim",
+                    "value": 104,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj111": {
+                "limit": {
+                    "tag": "subproj111_lim",
+                    "value": 96
+                }
+            }
+        }
+    },
+    "proj37": {
+        "fs_node": "/gpu/batch/fs49",
+        "weight": 56,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj37_lim",
+            "value": 56
+        },
+        "sub_project": {
+            "subproj104": {
+                "limit": {
+                    "tag": "subproj104_lim",
+                    "value": 56
+                },
+                "relaxed_limit": {
+                    "tag": "subproj104_lim",
+                    "value": 8,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj38": {
+        "fs_node": "/gpu/batch/fs40",
+        "weight": 604,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj38_lim",
+            "value": 604
+        },
+        "sub_project": {
+            "subproj105": {
+                "limit": {
+                    "tag": "subproj105_lim",
+                    "value": 0
+                },
+                "relaxed_limit": {
+                    "tag": "subproj105_lim",
+                    "value": 0,
+                    "max_runtime": "7d"
+                }
+            },
+            "subproj106": {
+                "limit": {
+                    "tag": "subproj106_lim",
+                    "value": 604
+                },
+                "relaxed_limit": {
+                    "tag": "subproj106_lim",
+                    "value": 172,
+                    "max_runtime": "7d"
+                }
+            }
+        }
+    },
+    "proj39": {
+        "fs_node": "/gpu/batch/fs47",
+        "weight": 1067,
+        "execute": true,
+        "affil": "affil_10",
+        "limit": {
+            "tag": "proj39_lim",
+            "value": 1067
+        },
+        "sub_project": {
+            "subproj107": {
+                "limit": {
+                    "tag": "subproj107_lim",
+                    "value": 1067
+                }
+            }
+        }
+    },
+    "proj30": {
+        "fs_node": "/gpu/batch/fs10",
+        "weight": 404,
+        "execute": true,
+        "affil": "affil_7",
+        "limit": {
+            "tag": "proj30_lim",
+            "value": 404
+        },
+        "sub_project": {
+            "subproj79": {
+                "limit": {
+                    "tag": "subproj79_lim",
+                    "value": 404
+                }
+            }
+        }
+    },
+    "proj31": {
+        "fs_node": "/gpu/batch/fs35",
+        "weight": 12,
+        "execute": true,
+        "affil": "affil_1",
+        "sub_project": {
+            "subproj80": {
+                "limit": {
+                    "tag": "subproj80_lim",
+                    "value": 12
+                }
+            }
+        }
+    },
+    "proj32": {
+        "fs_node": "/gpu/batch/fs6",
+        "weight": 2261,
+        "execute": true,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj32_lim",
+            "value": 2261
+        },
+        "sub_project": {
+            "subproj81": {
+                "pre_exec": "",
+                "post_exec": ""
+            },
+            "subproj82": {
+                "max_runtime": "1d"
+            },
+            "subproj83": {
+                "max_runtime": "10m",
+                "pre_exec": "",
+                "post_exec": ""
+            },
+            "subproj84": {
+                "limit": {
+                    "tag": "subproj84_lim",
+                    "value": 3
+                }
+            },
+            "subproj85": {
+                "limit": {
+                    "tag": "subproj85_lim",
+                    "value": 13
+                }
+            },
+            "subproj86": {
+                "limit": {
+                    "tag": "subproj86_lim",
+                    "value": 212
+                }
+            },
+            "subproj87": {
+                "pre_exec": "",
+                "post_exec": "",
+                "limit": {
+                    "tag": "subproj87_lim",
+                    "value": 407
+                }
+            },
+            "subproj88": {
+                "pre_exec": "",
+                "post_exec": "",
+                "limit": {
+                    "tag": "subproj88_lim",
+                    "value": 407
+                }
+            },
+            "subproj89": {
+                "pre_exec": "",
+                "post_exec": "",
+                "limit": {
+                    "tag": "subproj89_lim",
+                    "value": 407
+                }
+            },
+            "subproj90": {
+                "pre_exec": "",
+                "post_exec": "",
+                "limit": {
+                    "tag": "subproj90_lim",
+                    "value": 407
+                }
+            }
+        }
+    },
+    "proj41": {
+        "fs_node": "/gpu/batch/fs130",
+        "weight": 2000,
+        "execute": true,
+        "affil": "affil_3",
+        "limit": {
+            "tag": "proj41_lim",
+            "value": 2000
+        },
+        "sub_project": {
+            "subproj112": {}
+        }
+    },
+    "proj42": {
+        "fs_node": "/gpu/batch/fs127",
+        "weight": 2000,
+        "execute": true,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj42_lim",
+            "value": 2000
+        },
+        "sub_project": {
+            "subproj113": {}
+        }
+    },
+    "proj33": {
+        "fs_node": "/gpu/batch/fs107",
+        "weight": 2261,
+        "execute": true,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj33_lim",
+            "value": 2261
+        },
+        "sub_project": {
+            "subproj91": {}
+        }
+    },
+    "proj34": {
+        "fs_node": "/gpu/batch/fs109",
+        "weight": 2261,
+        "execute": false,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj34_lim",
+            "value": 2261
+        },
+        "sub_project": {
+            "subproj92": {
+                "fs_node": "/gpu/batch/fs109/fs113",
+                "weight": 1,
+                "execute": true,
+                "pre_exec": ""
+            },
+            "subproj93": {
+                "fs_node": "/gpu/batch/fs109/fs111",
+                "weight": 512,
+                "execute": true,
+                "pre_exec": ""
+            }
+        }
+    },
+    "proj35": {
+        "fs_node": "/gpu/batch/fs19",
+        "weight": 180,
+        "execute": true,
+        "affil": "affil_1",
+        "limit": {
+            "tag": "proj35_lim",
+            "value": 180
+        },
+        "sub_project": {
+            "subproj94": {
+                "limit": {
+                    "tag": "subproj94_lim",
+                    "value": 180
+                }
+            }
+        }
+    }
+}
